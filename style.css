@@ -11,6 +11,10 @@
   box-sizing: border-box;
   margin: 8px 0px;
   border-radius: 8px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  font-size: 60px;
 }
 
 .row {
